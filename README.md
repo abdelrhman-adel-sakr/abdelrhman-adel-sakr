@@ -8,7 +8,7 @@
 - 💬 Ask me about **AVR, ARM Cortex-M, FreeRTOS**
 - 📫 Reach me at **abdelrhmansakr248@gmail.com**
 - 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrhman-sakr-6a80552b6/)
-- 📑 Check out my **[Resume](https://chat.openai.com/share/file/AKGMenH26SoR34g9QVvDd4)** if you want to know more about my adventures in the world of electronics and coding.
+- 📑 Check out my **[Resume](https://github.com/abdelrhman-adel-sakr/abdelrhman-adel-sakr/blob/main/Abdelrhman_Adel_Sakr_Resume.pdf)** if you want to know more about my adventures in the world of electronics and coding.
 
 ---
 
