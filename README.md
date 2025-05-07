@@ -19,8 +19,6 @@
   <img src="https://img.shields.io/badge/ARM Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeRTOS-03254C?style=for-the-badge&logo=freertos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded C-282C34?style=for-the-badge&logo=c&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Proteus-002147?style=for-the-badge&logo=proteus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </p>
 
 ---
