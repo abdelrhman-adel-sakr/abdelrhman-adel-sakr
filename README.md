@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=atmel&logoColor=white"/>
   <img src="https://img.shields.io/badge/ARM Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeRTOS-03254C?style=for-the-badge&logo=freertos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded C-282C34?style=for-the-badge&logo=c&logoColor=61DAFB"/>
 </p>
 
 ---
