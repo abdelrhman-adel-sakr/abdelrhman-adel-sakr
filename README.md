@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Smart Access Control with FreeRTOS and AVR**
 - 🌱 I’m currently learning **RTOS, Embedded Linux, and Automotive (AUTOSAR)**
 - 💬 Ask me about **AVR, ARM Cortex-M, FreeRTOS, UART, I2C, SPI, EEPROM**
-- 📫 How to reach me: **abdelrhman.adel.sakr@gmail.com**
+- 📫 How to reach me: **abdelrhmansakr248@gmail.com**
 - 📄 Know about my experiences: [LinkedIn Profile]([https://linkedin.com/in/abdelrhman-adel-sakr](https://www.linkedin.com/in/abdelrhman-sakr-6a80552b6/))
 
 ---
